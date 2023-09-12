@@ -40,12 +40,6 @@ Feel free to file an issue if you come across any bugs
 * All suggestions are welcome
 * Fork repository and contribute
 
-## Contributors:
-
-* [Parag Kumar Gupta](https://github.com/paraggupta027)
-* [Shobhit Agarwal](https://github.com/shobhit2002)
-* [Taru Gupta](https://github.com/taru2001)
-* [Yaggya Garg](https://github.com/yaggya01)
 
 ### Made at:
 <img src="https://i.ibb.co/3vMYD6M/Made-at-Hack-36.png">
